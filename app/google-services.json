@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "708625080375",
+    "firebase_url": "https://dbtest-85c32-default-rtdb.firebaseio.com",
+    "project_id": "dbtest-85c32",
+    "storage_bucket": "dbtest-85c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708625080375:android:1db5cfe509cfce17441fb2",
+        "android_client_info": {
+          "package_name": "com.example.adminbusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708625080375-hflgol84oanm0bm3en8c2efne8jqcfre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbsh4dYmrCQXx9E5N2lbldYD7gFthT2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708625080375-hflgol84oanm0bm3en8c2efne8jqcfre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708625080375:android:9b441e6dcfe35ced441fb2",
+        "android_client_info": {
+          "package_name": "com.example.busapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708625080375-hflgol84oanm0bm3en8c2efne8jqcfre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbsh4dYmrCQXx9E5N2lbldYD7gFthT2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708625080375-hflgol84oanm0bm3en8c2efne8jqcfre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708625080375:android:6cb16d0f59cc4fe8441fb2",
+        "android_client_info": {
+          "package_name": "com.example.dbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708625080375-hflgol84oanm0bm3en8c2efne8jqcfre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpbsh4dYmrCQXx9E5N2lbldYD7gFthT2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708625080375-hflgol84oanm0bm3en8c2efne8jqcfre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
